@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is AAC5-EAC8
+
+ Directory of C:\Users\Ankit\OneDrive\Desktop\project
+
+23-02-2024  18:27    <DIR>          .
+23-02-2024  18:25    <DIR>          ..
+23-02-2024  18:27                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  184,208,613,376 bytes free
